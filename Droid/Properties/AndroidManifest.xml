@@ -2,6 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="com.ericher.testCamera_xforms">
 	<uses-sdk android:minSdkVersion="15" />
 	<uses-permission android:name="android.permission.INTERNET" />
-	<application android:label="testCamera_xforms">
-	</application>
+	<uses-permission android:name="android.permission.CAMERA" />
+	<application android:label="testCamera_xforms"></application>
 </manifest>
